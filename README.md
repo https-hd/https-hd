@@ -79,9 +79,6 @@ END_SECTION:activity-->
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-
-
 
 
 ## Show your support
